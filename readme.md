@@ -1,6 +1,7 @@
 # Pathway to Arabic
 
-A pathway to learn classical Arabic on your own using mostly free resources. Uses Islamic texts and books.
+A pathway to learn classical Arabic on your own using mostly free resources. Uses Islamic texts and books. [Go to the site](https://arabic.naveeraashraf.com)
+<br>
 #arabic #quran
 
 ## Background
