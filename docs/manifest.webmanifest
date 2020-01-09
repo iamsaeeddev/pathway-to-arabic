@@ -1,0 +1,21 @@
+{
+    "short_name": "Pathway",
+    "name": "Pathway to Arabic",
+    "icons": [
+        {
+          "src": "/img/icons-192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "/img/icons-512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ],
+    "start_url": "/index.md",
+    "background_color": "#757575",
+    "scope": ".",
+    "display": "standalone",
+    "theme_color": "#757575"
+  }
